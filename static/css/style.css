@@ -8974,7 +8974,7 @@ LogIn Register Page
   margin-bottom: 25px;
   position: relative;
 }
-.login_form hr:before,
+/* .login_form hr:before,
 .sign_up_form hr:before{
   background-color: #ffffff;
   bottom: 0;
@@ -8988,7 +8988,7 @@ LogIn Register Page
   text-align: center;
   top: -12px;
   width: 10%;
-}
+} */
 .login_form .input-group-text,
 .sign_up_form .input-group-text{
   background-color: transparent;
